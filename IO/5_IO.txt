@@ -1,0 +1,14 @@
+Enter the minimum degree of the B-Tree: 3
+
+1. Insert
+2. Traverse
+3. Search
+4. Exit
+Enter your choice: 1
+Enter the key to insert: 10
+
+Enter your choice: 1
+Enter the key to insert: 20
+
+Enter your choice: 2
+Tree traversal: 10 20
